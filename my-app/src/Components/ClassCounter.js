@@ -5,7 +5,7 @@ import React, { Component } from 'react'
       super(props)
     
       this.state = {
-         count:0
+         count:66
       }
     }
     incrementCount= ()=>{
